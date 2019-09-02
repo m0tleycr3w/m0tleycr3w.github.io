@@ -8,7 +8,7 @@ permalink: /
 
 This is the **home** of m0tleycr3w team! The team is formed for playing Vulnhub and HackTheBox and other wargames.
 
-![](/lulzsec.png)
+![](/lulzsec.jpg)
 
 # Members
 
