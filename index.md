@@ -1,5 +1,5 @@
 ---
-title: /
+title: m0tleycr3w home
 layout: home
 permalink: /
 ---
