@@ -19,6 +19,7 @@ Currently this team has 5 members:-
 * [theart42](https://twitter.com/theart42)
 * [mzfr](https://twitter.com/0xmzfr)
 * [D4mianWayne](https://twitter.com/D4mianWayne)
+* [Mylo](https://twitter.com/pIaintext)
 
 # What we do?
 
