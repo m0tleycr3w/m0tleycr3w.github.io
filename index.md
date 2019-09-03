@@ -14,7 +14,7 @@ This is the **home** of m0tleycr3w team! The team is formed for playing Vulnhub 
 
 Currently this team has 5 members:-
 
-* [4ndr34z](https://twitter.com/4ndr34z) 
+* [4ndr34z](https://twitter.com/4nqr34z) 
 * [DCAU7](https://twitter.com/DCAU7)
 * [theart42](https://twitter.com/theart42)
 * [mzfr](https://twitter.com/0xmzfr)
