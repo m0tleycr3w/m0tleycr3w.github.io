@@ -4,11 +4,11 @@ layout: home
 permalink: /about
 ---
 
-Curious to know abou us? There you go then:-
+Curious to know about us? There you go then:-
 
 # 4ndr34z
 
-Andreas is founding member of the team. Having a background in IT security and certifications as well. Andreas loves to pwn machines specifically Vulnhub and HackTheBox and work on something which interests.
+Andreas is founding member of the team. Having a background in IT security and certifications as well. Andreas loves to pwn machines specifically Vulnhub and HackTheBox and work on something which interests him.
 
 # DCAU7
 
@@ -20,7 +20,7 @@ Grumpy old hacker who pwns things for a living and CTF’s for a hobby. A classi
 
 # mzfr
 
-Started hacking as passio and interest, mzfr has gained quite a lot of experience in penetration testing and making projects which help in assisting the pentesting. With a background in programming and forensics gained from over countless CTF, he is working had to become a penetration tester.
+Started hacking as passion and interest, mzfr has gained quite a lot of experience in penetration testing and making projects which help in assisting the pentesting. With a background in programming and forensics gained from over countless CTF, he is working hard to become a penetration tester.
 
 # D4mianWayne 
 
