@@ -20,7 +20,7 @@ Grumpy old hacker who pwns things for a living and CTF’s for a hobby. A classi
 
 # mzfr
 
-Started hacking as passion and interest, mzfr has gained quite a lot of experience in penetration testing and making projects which help in assisting the pentesting. With a background in programming and forensics gained from over countless CTF, he is working hard to become a penetration tester.
+Started hacking as passion and interest, mzfr has gained quite a lot of experience in penetration testing and he loves making projects which help in assisting the pentesting. With a background in programming and forensics gained from over countless CTF, he is working hard to become a penetration tester.
 
 # D4mianWayne 
 
